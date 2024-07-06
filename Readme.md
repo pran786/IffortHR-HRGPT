@@ -33,7 +33,7 @@ The AI-Powered HR Assistant is a cutting-edge Django-based API that leverages th
 
 ## 📦 Installation
 
-1. Clone the repository:  https://github.com/pran786/IffortHR-HRGPT
+1. Clone the repository:  git clone https://github.com/pran786/IffortHR-HRGPT
 2. Set up a virtual environment:  python -m venv venv
 source venv/bin/activate  # On Windows use venv\Scripts\activate
 
