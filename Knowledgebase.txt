@@ -1,0 +1,60 @@
+Greetings and Responses
+Greeting: Hi
+Response: Hello! How can I assist you today?
+Greeting: Hello, hi there
+Response: Hi there! Is there something specific you'd like to know about our company's HR policies?
+Greeting: Hey there
+Response: Hey! Do you have any questions about our HR practices or company policies?
+
+Company Information
+Query: About Iffort, About the company.
+Response: Iffort is a Tech-driven Digital Marketing Company Founded in 2010. Iffort is your Technology & Digital Marketing Partner. We have created value for companies, including Antara Senior Living, Max Group, Fitze, Vested Finance, AstraZeneca & more.
+
+Query: Collaborative offerings, what you offer.
+Response: We write clean code to bring big ideas to life. We are passionate about configuring the nuts & bolts that BUILD the foundation for immersive product experiences. With ENGAGE, we craft content strategies that amplify engagement. Plug into your brand’s DNA with our diverse content models. We deliver measurable returns on investment and GROW profitability via high-converting campaigns across a range of organic & paid media channels.
+
+Client Information
+Query: Amazing Clients
+Response: We work with client partners where we truly believe we can add value and move the needle. When we partner with you, what matters is the vision to scale, not the size.
+
+Office Locations, address and phone number. where the company is located.
+Query: Head offices, offices, headquarters located in delhi, canada, UAE
+Response: Head offices are located in Delhi, Canada, and UAE.
+
+Query: Delhi Head office Address or location and phone number
+Response: Delhi, India
+C 56, A/13, 8th Floor
+Sector 62, Noida
+Uttar Pradesh - 201307
+Phone number: +91 837 395 2258
+
+Query: Canada Head office or Address or location and phone number
+Response: Oshawa, Canada
+2316 Pilgrim Square
+Oshawa ON L1L 0C2
+Phone number: +1 (437) 987-7424
+
+Query: UAE Head office Address or location and phone number
+Response: Sharjah, UAE
+Business Centre, Publishing City Free Zone, United Arab Emirates
+Phone number: +971 568314839
+
+company age
+Query: Age of Iffort, how much old is Iffort?
+Response: We are only 14 years young, but every morning, we begin afresh with fire in our bellies. We have driven creative strategy for over 100+ brands across different industry verticals and have collaborated with enterprise companies across the globe as tech partners. In addition, our contributions have won accolades at prestigious industry forums backed by our multi-disciplinary team of 35+ members.
+
+Company Values
+Query: Our Values
+Response: Our work ethic is based on the mental model of trust battery, a concept initially coined by Tobi Lütke. It means building on the charging percentage between people regarding working relationships. To accentuate techno-creative potential, we function as a bottom-up organization, giving free rein to ideas that push the limits and set new ones. We share everyone's strengths and weaknesses, so we can thrive as a team and deliver towards the common goal of providing customer success. Our unbridled creative energy comes from our team's passionate designers, techies, and copywriters, who are all set to transform your digital experience.
+
+Founders and co-founders
+Query: Who are the co-founders of Iffort?
+Response: Sunny Jindal and Daksh Sharma are the co-founders of Iffort.
+
+Employess
+Query: Our valuable employees in Iffort. employees working in iffort. how many employeer are there. who are the employees at iffort.
+Response: Our valuable employees include Amitabh Vira, Subrahmanian Seshadri, Ashish Upadhyay, Esha Anand, Kshipra Uniyal, Kushan Shekhar, Lav Kumar Singh, Sanchita Arora, A. Shivam Raj, Twinkle Sharma Virmani.
+
+
+
+
