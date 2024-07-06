@@ -1,7 +1,5 @@
 # 🤖 AI-Powered HR Assistant
 
-![HR Assistant Logo](https://example.com/hr-assistant-logo.png)
-
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -35,21 +33,23 @@ The AI-Powered HR Assistant is a cutting-edge Django-based API that leverages th
 
 ## 📦 Installation
 
-1. Clone the repository:
-2. Set up a virtual environment:
-3. Install dependencies:
+1. Clone the repository:  https://github.com/pran786/IffortHR-HRGPT
+2. Set up a virtual environment:  python -m venv venv
+source venv/bin/activate  # On Windows use venv\Scripts\activate
+
+3. Install dependencies:  pip install -r requirements.txt
 4. Set up environment variables:
-Create a `.env` file in the project root and add:
-5. Run migrations:
+Create a `.env` file in the project root and add: OPENAI_API_KEY=your_openai_api_key_here
+
 ## 🚀 Usage
 
-1. Start the Django development server:
+1. Start the Django development server: python manage.py runserver
 
 2. The API will be available at `http://localhost:8000/ask/`
 
 ## 🔗 API Endpoints
 
-### POST /api/ask/
+### POST /ask/
 
 Ask a question to the HR Assistant.
 
@@ -58,9 +58,9 @@ Ask a question to the HR Assistant.
 {
  "query": "who is the founder of the company"
 }
+```
 
 **Response**:
-
 ```json
 {
  "Response": "The co-founders of Iffort are Sunny Jindal and Daksh Sharma."
